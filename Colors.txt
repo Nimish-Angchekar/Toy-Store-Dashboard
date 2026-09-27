@@ -1,0 +1,10 @@
+| Purpose    | Hex       |
+| ---------- | --------- |
+| Primary    | #0D4F64 |
+| Darker     | #083847 |
+| Lighter    | #2A6F87 |
+| Background | #F7F9FA |
+| Accent     | #3BA99C |
+| Success    | #2E8B57 |
+| Warning    | #F4B400 |
+| Negative   | #D64545 |
